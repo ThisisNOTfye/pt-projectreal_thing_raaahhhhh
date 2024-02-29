@@ -2,7 +2,9 @@
     "name": "PT project(REAL_THING_RAAAHHHHH)",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "pxt-arcade-image-transform": "github:robo-technical-group/pxt-arcade-image-transform#v1.0.9",
+        "darts": "*"
     },
     "files": [
         "main.blocks",
@@ -24,5 +26,23 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#C0C0C0",
+        "#CF9876",
+        "#FFF609",
+        "#E5CDC4",
+        "#78DC52",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#A4839F",
+        "#5C406c",
+        "#D6BD99",
+        "#91463d",
+        "#000000"
+    ]
 }
